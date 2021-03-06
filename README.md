@@ -17,14 +17,6 @@ I m a Third Year Electronics Undergrad at MNNIT.
 - 🌱 I’m currently learning DSA & Android Dev Technologies.
 - 💬 Ask me about Firebase in Flutter & DSA.
 - ✉️ You can shoot me an email at itsmeneha957@gmail.com!
-  
-## 💹 Github Analytics :
-<p align="center">
-<a href="https://github.com/neha507">
-  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=neha507&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=neha507&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
 
 ## 🤝🏻 &nbsp;Connect with Me :
 
