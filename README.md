@@ -2,7 +2,7 @@
 
 I m a Third Year Electronics Undergrad at MNNIT.
 
-<img align="right" src="https://thumbs.dreamstime.com/z/smiling-girl-sitting-laptop-learning-coding-cute-web-design-vector-illustration-isolated-white-background-bunner-136584573.jpg" width="450" height="400" />
+<img align="right" src="https://www.pinclipart.com/picdir/big/452-4524012_depression-clipart-social-effect-of-social-media-drawing.png" width="450" height="400" />
 
 ## ⚙️ Skills :
 - <b>Languages :</b>  <code>C++</code>, <code>C</code>, <code>Java</code>, `Dart`
