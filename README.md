@@ -11,7 +11,7 @@ I m a Final Year Electronics Undergrad at MNNIT Allahabad.
 
 - <b>Database Technologies :</b> <code>MySQL</code>, <code>MongoDB</code>, <code>FireBase</code>
 
-- <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOPS</code>, <code>Networking</code>
+- <b>CS Core :</b> <code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOPS</code>, <code>Networking</code>
 
 ## Here are some facts about me :
 
