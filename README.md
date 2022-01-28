@@ -18,17 +18,11 @@ I m a Third Year Electronics Undergrad at MNNIT.
 - 💬 Ask me about Firebase in Flutter & DSA.
 - ✉️ You can shoot me an email at itsmeneha957@gmail.com!
 
-## 💹 Github Analytics :
-<p align="center">
-<a href="https://github.com/dopexhit">
-  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dopexhit&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400cm" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dopexhit&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
-
 ## 🤝🏻 &nbsp;Connect with Me :
 
 <p align="center">
 <a href="https://www.linkedin.com/in/neha-kumari-9119031aa"><img src="https://img.shields.io/badge/-Neha%20Kumari%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itsmeneha957@gmail.com"><img src="https://img.shields.io/badge/-itsmeneha957@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/dopexhit/"><img src="https://img.shields.io/badge/-@dopexhit-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
 </p>
+
