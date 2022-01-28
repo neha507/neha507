@@ -14,8 +14,8 @@ I m a Third Year Electronics Undergrad at MNNIT.
 ## Here are some facts about me :
 
 - 🔭 I’m currently a Student.
-- 🌱 I’m currently learning DSA & Android Dev Technologies.
-- 💬 Ask me about Firebase in Flutter & DSA.
+- 🌱 I’m currently learning DSA & Web Dev Technologies.
+- 💬 Ask me about ReactJS, Flutter & DSA.
 - ✉️ You can shoot me an email at itsmeneha957@gmail.com!
 
 ## 🤝🏻 &nbsp;Connect with Me :
