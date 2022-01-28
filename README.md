@@ -1,15 +1,17 @@
 <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" /> Hi, I'm Neha Kumari</h1>
 
-I m a Third Year Electronics Undergrad at MNNIT.
+I m a Final Year Electronics Undergrad at MNNIT Allahabad.
 
 <img align="right" src="https://www.pinclipart.com/picdir/big/452-4524012_depression-clipart-social-effect-of-social-media-drawing.png" width="450" height="400" />
 
 ## ⚙️ Skills :
-- <b>Languages :</b>  <code>C++</code>, <code>C</code>, <code>Java</code>, `Dart`
+- <b>Languages :</b>  <code>C++</code>, <code>Java</code>, <code>Dart</code>, <code>Javascript</code>,  <code>C</code>
 
-- <b>Database Technologies :</b> <code>FireBase</code>, <code>MySQL</code>
+- <b>Frameworks :</b> <code>Flutter</code>, <code>ReactJS</code>
 
-- <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOP</code>, <code>Networking</code>
+- <b>Database Technologies :</b> <code>MySQL</code>, <code>MongoDB</code>, <code>FireBase</code>
+
+- <b>CS Core :</b><code>Data Structures</code>, <code>Algorithms</code>, <code>DBMS</code>, <code>OS</code>, <code>OOPS</code>, <code>Networking</code>
 
 ## Here are some facts about me :
 
