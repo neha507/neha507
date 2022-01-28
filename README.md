@@ -23,6 +23,6 @@ I m a Third Year Electronics Undergrad at MNNIT.
 <p align="center">
 <a href="https://www.linkedin.com/in/neha-kumari-9119031aa"><img src="https://img.shields.io/badge/-Neha%20Kumari%20-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:itsmeneha957@gmail.com"><img src="https://img.shields.io/badge/-itsmeneha957@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/_neha_511/"><img src="https://img.shields.io/badge/-@dopexhit-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
+<a href="https://www.instagram.com/_neha_511/"><img src="https://img.shields.io/badge/-@neha-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>  
 </p>
 
